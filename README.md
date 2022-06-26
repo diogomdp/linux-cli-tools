@@ -25,3 +25,5 @@
       * **ffplay** - Very simple and portable media player using the FFmpeg libraries and the SDL library. It is mostly used as a testbed for the various FFmpeg APIs.
       * **mpv** - Movie player based on MPlayer and mplayer2.
       * **vlc** - Command-line version of the famous video player that can play smoothly high definition videos in the TTY.
+    * ## Video Converters
+      * **ffmpeg** - Complete, cross-platform solution to record, convert and stream audio and video.  
