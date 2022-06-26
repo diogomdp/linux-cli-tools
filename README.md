@@ -1,4 +1,4 @@
-# `🛠` Linux CLI Tools
+# `🛠` Linux CLI and TUI Tools
 > ## A place with the main CLI tools for Linux!
 * ## `🌎` Internet
   * ## `🧭` Web Browsers
