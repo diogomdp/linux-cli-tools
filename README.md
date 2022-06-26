@@ -15,11 +15,17 @@
       * **ssh** - SFTP is a network protocol that provides file access, file transfer, and file management over any reliable data stream.
     * ## BitTorrents clients
       * **transmission** - Simple and easy-to-use BitTorrent client with a daemon version and multiple front-ends. This package includes backend, daemon, command-line interface, and a Web UI interface.
-      * **Deluge**  BitTorrent client with multiple user interfaces in a client/server model. This package includes a console client.
+      * **deluge** - BitTorrent client with multiple user interfaces in a client/server model. This package includes a console client.
 * ## `🎛️` Multimedia
   * ## `🎵` Audio
     * ## Audio Players
       *  **moc** - Ncurses console audio player with support for the MP3, OGG, and WAV formats.
+    * ## Sound System
+      * **ALSA**
+        * **alsamixer** - Soundcard mixer for ALSA soundcard driver, with ncurses interface   
+      * **PulseAudio**
+        * **pactl** - Control a running PulseAudio sound server 
+        * **pavucontrol** - It also allows you to change "mixer" settings like headphone output, mic level, input device, and stereo versus surround sound profiles.   
   * ## `🎥` Video  
     * ## Video Players
       * **ffplay** - Very simple and portable media player using the FFmpeg libraries and the SDL library. It is mostly used as a testbed for the various FFmpeg APIs.
